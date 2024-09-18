@@ -1,0 +1,19 @@
+{
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "."
+      ]
+    }
+  ],
+  "include": [
+    "utils/",
+    "config/",
+    "organizer/"
+  ],
+  "exclude": [
+    "venv/",
+    "tests/"
+  ]
+}
